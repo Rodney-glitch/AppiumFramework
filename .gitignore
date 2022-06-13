@@ -1,0 +1,6 @@
+*.iml
+*.png
+*.apk
+/screenshots
+.idea
+target
